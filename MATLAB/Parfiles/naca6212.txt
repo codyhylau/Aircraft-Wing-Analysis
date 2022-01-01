@@ -1,0 +1,4 @@
+Section identifier              : naca6212
+Number of panels                : 800
+Reynolds number                 : 20e6
+Range of incidences (degrees)   : -10:0.2:10
